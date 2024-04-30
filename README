@@ -1,0 +1,56 @@
+# Langchain Tutorial YouTube
+
+## Description
+This repository contains the source code for the Langchain Tutorial YouTube series. Langchain is a Python-based blockchain implementation designed for educational purposes. The series aims to provide a step-by-step guide on building a simple blockchain and understanding its core concepts.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+## Prerequisites
+
+- Python 3
+- VS Code or PyCharm
+
+## Setup Instructions
+
+cd <project_directory>
+
+## Create a virtual environment. For Ubuntu/Linux or macOS:
+
+
+python3 -m venv venv
+
+## Activate the virtual environment:
+source venv/bin/activate
+
+## install project dependencies:
+pip install -r requirements.txt
+
+## Installation
+1. Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/yourusername/Langchain-tutorial-youtube.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Langchain-tutorial-youtube
+    ```
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+- Follow along with the Langchain Tutorial YouTube series to learn how to build and understand the Langchain blockchain.
+- Each tutorial episode corresponds to a specific branch in this repository. Checkout the branch for the corresponding episode to view the code changes and follow along with the tutorial.
+- Run the provided Python scripts to interact with the Langchain blockchain and explore its functionality.
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the project's coding style and guidelines.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
